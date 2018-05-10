@@ -8,11 +8,12 @@ Monitors Gitlab services by calculating the average response time
 
 2)Cd into repo
 
-Run ruby -I lib bin/gitlab_monitor measure
+Run 
+```ruby -I lib bin/gitlab_monitor measure```
 
 Running the tests:
 
-bundle exec rspec
+```bundle exec rspec```
 
 ## Development
 
